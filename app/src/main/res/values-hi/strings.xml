@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">इंटरव्यू असिस्ट</string>
+    <string name="ace_every_interview">हर इंटरव्यू में सफलता पाएं</string>
+    <string name="don_t_have_an_account">"खाता नहीं है? "</string>
+    <string name="sign_up">साइन अप</string>
+    <string name="create_account">खाता बनाएं</string>
+    <string name="start_your_interview_journey">अपनी इंटरव्यू यात्रा शुरू करें</string>
+    <string name="passwords_do_not_match">पासवर्ड मेल नहीं खा रहे हैं</string>
+    <string name="target_role">लक्षित भूमिका</string>
+    <string name="email">ईमेल</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="already_have_an_account">"पहले से खाता है? "</string>
+    <string name="sign_in">साइन इन</string>
+
+    <string name="your_feedback">आपकी प्रतिक्रिया</string>
+    <string name="question_of">प्रश्न %1$d में से %2$d</string>
+    <string name="score_breakdown">स्कोर विवरण</string>
+    <string name="ai_feedback">AI प्रतिक्रिया</string>
+    <string name="improved_answer">सुधारा गया उत्तर</string>
+    <string name="next_question">अगला प्रश्न (%1$d/%2$d)</string>
+    <string name="progress">प्रगति</string>
+    <string name="end_session">सेशन समाप्त करें</string>
+    <string name="view_full_progress">पूरी प्रगति देखें</string>
+    <string name="new_session">नया सेशन</string>
+    <string name="resume_ai">AI फिर से शुरू करें</string>
+    <string name="session_complete">सेशन पूरा हुआ!</string>
+    <string name="you_answered_all_questions">आपने सभी %1$d प्रश्नों के उत्तर दिए</string>
+    <string name="score">स्कोर</string>
+    <string name="confidence">आत्मविश्वास</string>
+    <string name="grammar">व्याकरण</string>
+    <string name="relevance">प्रासंगिकता</string>
+    <string name="keywords">कीवर्ड</string>
+    <string name="covered">✅ शामिल</string>
+    <string name="missed">❌ छूटा</string>
+
+    <string name="interview_mode">इंटरव्यू मोड</string>
+    <string name="choose_category">श्रेणी चुनें</string>
+    <string name="difficulty">कठिनाई</string>
+    <string name="general_practice">सामान्य\nअभ्यास</string>
+    <string name="category_based_questions">श्रेणी आधारित प्रश्न</string>
+    <string name="active">सक्रिय</string>
+    <string name="resume_interview">इंटरव्यू\nजारी रखें</string>
+    <string name="ai_questions_from_your_cv">आपके CV से AI प्रश्न</string>
+    <string name="try_now">अभी आज़माएं</string>
+    <string name="hey">नमस्ते, %1$s 👋</string>
+    <string name="best_score_sessions_this_week">सर्वश्रेष्ठ: %1$s &#8226; इस सप्ताह %2$d सेशन</string>
+    <string name="sessions">सेशन</string>
+    <string name="avg_score">औसत स्कोर</string>
+    <string name="streak">स्ट्रीक</string>
+    <string name="start_interview">इंटरव्यू शुरू करें</string>
+    <string name="submit_answer">उत्तर सबमिट करें</string>
+    <string name="q">प्र %1$d / %2$d</string>
+    <string name="_02d_02d">%02d:%02d</string>
+    <string name="scale">स्केल</string>
+    <string name="type_your_answer_or_use_the_mic">अपना उत्तर टाइप करें या माइक का उपयोग करें</string>
+    <string name="listening">सुन रहा है...</string>
+    <string name="home">होम</string>
+    <string name="resume">रिज़्यूमे</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="no_sessions_yet">अभी कोई सेशन नहीं</string>
+    <string name="complete_your_first_interview_to_see_your_progress_tracked_here">
+        अपनी पहली इंटरव्यू पूरी करें ताकि आपकी प्रगति यहां दिखाई दे
+    </string>
+    <string name="start_practicing">अभ्यास शुरू करें</string>
+    <string name="your_progress">आपकी प्रगति</string>
+    <string name="day_streak_total_sessions">%1$d दिन की स्ट्रीक &#8226; कुल %2$d सेशन</string>
+    <string name="best_score">सर्वश्रेष्ठ स्कोर</string>
+    <string name="this_week">इस सप्ताह</string>
+    <string name="category_performance">श्रेणी प्रदर्शन</string>
+    <string name="score_history">स्कोर इतिहास</string>
+    <string name="last_sessions_avg">पिछले %1$d सेशन &#8226; औसत %2$d%%</string>
+    <string name="resume_step">रिज़्यूमे चरण</string>
+    <string name="upload_your_resume_and_get_personalized_interview_questions_based_on_your_experience">
+        अपना रिज़्यूमे अपलोड करें और अपने अनुभव के आधार पर\nव्यक्तिगत इंटरव्यू प्रश्न पाएं
+    </string>
+    <string name="supported">समर्थित</string>
+    <string name="alpha">अल्फा</string>
+    <string name="tap_to_select_your_resume">अपना रिज़्यूमे चुनने के लिए टैप करें</string>
+    <string name="what_you_ll_get">आपको क्या मिलेगा</string>
+    <string name="skill_based_questions_tailored_to_your_tech_stack">
+        आपकी टेक स्टैक के अनुसार कौशल आधारित प्रश्न
+    </string>
+    <string name="experience_questions_matching_your_career_level">
+        आपके करियर स्तर के अनुसार अनुभव प्रश्न
+    </string>
+    <string name="project_deep_dive_questions_from_your_work">
+        आपके प्रोजेक्ट्स से गहन प्रश्न
+    </string>
+    <string name="behavioral_questions_for_your_seniority_level">
+        आपके वरिष्ठता स्तर के अनुसार व्यवहारिक प्रश्न
+    </string>
+    <string name="extracting_text">टेक्स्ट निकाला जा रहा है</string>
+    <string name="detecting_skills">कौशल पहचाने जा रहे हैं</string>
+    <string name="analyzing_experience">अनुभव का विश्लेषण</string>
+    <string name="generating_questions">प्रश्न बनाए जा रहे हैं</string>
+    <string name="analyzing_your_resume">आपका रिज़्यूमे विश्लेषण हो रहा है...</string>
+    <string name="resume_analyzed">रिज़्यूमे विश्लेषित!</string>
+    <string name="skills">कौशल</string>
+    <string name="experience">अनुभव</string>
+    <string name="projects">प्रोजेक्ट्स</string>
+    <string name="yr">%1$d वर्ष</string>
+    <string name="detected_job_title">पहचाना गया जॉब टाइटल</string>
+    <string name="start_interview_session">इंटरव्यू सेशन शुरू करें</string>
+    <string name="upload_different_resume">अलग रिज़्यूमे अपलोड करें</string>
+    <string name="your_questions">आपके प्रश्न</string>
+    <string name="questions_generated">%1$d प्रश्न बनाए गए</string>
+    <string name="batch">बैच %1$d</string>
+    <string name="generating_next_batch">अगला बैच बनाया जा रहा है...</string>
+    <string name="gemini_ai_is_crafting_new_questions">Gemini AI नए प्रश्न तैयार कर रहा है</string>
+    <string name="load_10_more_questions">10 और प्रश्न लोड करें</string>
+    <string name="ai_will_generate_a_fresh_unique_batch_loaded_so_far">
+        AI एक नया यूनिक बैच बनाएगा  •  अब तक %1$d लोड हुए
+    </string>
+    <string name="skill">कौशल</string>
+    <string name="project">प्रोजेक्ट</string>
+    <string name="hard">कठिन</string>
+    <string name="easy">आसान</string>
+    <string name="key_topics">मुख्य विषय: %1$s</string>
+    <string name="change_photo">फोटो बदलें</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="edit_profile">प्रोफ़ाइल संपादित करें</string>
+    <string name="interview_preferences">इंटरव्यू प्राथमिकताएं</string>
+    <string name="sound_effects">ध्वनि प्रभाव</string>
+    <string name="play_sounds_during_interview_sessions">
+        इंटरव्यू सेशन के दौरान ध्वनि चलाएं
+    </string>
+    <string name="auto_submit">ऑटो सबमिट</string>
+    <string name="auto_submit_after_silence_is_detected">
+        चुप्पी के बाद स्वतः सबमिट करें
+    </string>
+    <string name="app_settings">ऐप सेटिंग्स</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="daily_practice_reminders">दैनिक अभ्यास रिमाइंडर</string>
+    <string name="use_dark_theme_throughout_the_app">
+        पूरे ऐप में डार्क थीम का उपयोग करें
+    </string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="account">खाता</string>
+    <string name="update_your_name_and_target_role">
+        अपना नाम और लक्षित भूमिका अपडेट करें
+    </string>
+    <string name="export_progress">प्रगति एक्सपोर्ट करें</string>
+    <string name="share_your_interview_history">
+        अपना इंटरव्यू इतिहास साझा करें
+    </string>
+    <string name="about">ऐप के बारे में</string>
+    <string name="rate_the_app">ऐप को रेट करें</string>
+    <string name="enjoying_the_app_leave_a_review">
+        ऐप पसंद आ रहा है? रिव्यू दें!
+    </string>
+    <string name="report_a_bug">बग रिपोर्ट करें</string>
+    <string name="help_us_improve_the_experience">
+        अनुभव बेहतर बनाने में हमारी मदद करें
+    </string>
+    <string name="app_version">ऐप संस्करण</string>
+    <string name="log_out">लॉग आउट</string>
+    <string name="delete_account">खाता हटाएं</string>
+    <string name="save_changes">परिवर्तन सहेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="this_will_permanently_delete_your_account_and_all_progress_this_cannot_be_undone">
+        यह आपका खाता और सारी प्रगति स्थायी रूप से हटा देगा। इसे वापस नहीं किया जा सकता।
+    </string>
+    <string name="delete_forever">हमेशा के लिए हटाएं</string>
+    <string name="you_ll_need_to_sign_in_again_to_access_your_sessions">
+        अपने सेशन एक्सेस करने के लिए आपको फिर से साइन इन करना होगा।
+    </string>
+    <string name="yes_log_out">हाँ, लॉग आउट करें</string>
+    <string name="language">भाषा</string>
+
+    <!-- values-hi/strings.xml -->
+    <string name="category_android">एंड्रॉयड</string>
+    <string name="category_backend">बैकएंड</string>
+    <string name="category_ml">ML</string>
+    <string name="category_system_design">सिस्टम डिज़ाइन</string>
+    <string name="category_dsa">DSA</string>
+
+    <string name="difficulty_easy">आसान</string>
+    <string name="difficulty_medium">मध्यम</string>
+    <string name="difficulty_hard">कठिन</string>
+    <string name="loading_question">प्रश्न लोड हो रहा है...</string>
+    <string name="analyzing_your_answer">आपके उत्तर का विश्लेषण किया जा रहा है...</string>
+    <string name="no_questions_found">कोई प्रश्न नहीं मिला</string>
+
+</resources>
