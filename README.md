@@ -33,6 +33,25 @@ personalized practice sessions, real-time speech recognition, and intelligent fe
 - Notification, sound, and auto-submit preferences
 - Secure JWT authentication with silent token refresh
 
+## **Screenshots**
+
+<p align="center">
+<img alt="Overview1"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot1.jpg">
+</p>
+<p align="center">
+<img alt="Overview2"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot2.jpg">
+</p>
+<p align="center">
+<img alt="Overview3"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot3.jpg">
+</p>
+<p align="center">
+<img alt="Overview4"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot4.jpg">
+</p>
+
+## **Preview**
+
+https://github.com/user-attachments/assets/0209c225-a14e-46ca-9222-f8ee3f1152cc
+
 ## Tech Stack
 
 | Layer | Technology |
@@ -109,7 +128,6 @@ BASE_URL=http://your-server-ip:8080/api/v1/
 
 3. Build and run in Android Studio
 
-## Screenshots
 
 *Coming soon*
 
