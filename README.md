@@ -47,7 +47,7 @@ personalized practice sessions, real-time speech recognition, and intelligent fe
 
 ## **Preview**
 
-https://github.com/user-attachments/assets/0209c225-a14e-46ca-9222-f8ee3f1152cc
+https://github.com/user-attachments/assets/ec4b1856-30a9-4937-8e84-255940420c03
 
 ## Tech Stack
 
