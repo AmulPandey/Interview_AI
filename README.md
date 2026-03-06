@@ -36,16 +36,16 @@ personalized practice sessions, real-time speech recognition, and intelligent fe
 ## **Screenshots**
 
 <p align="center">
-<img alt="Overview1"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot1.jpg">
+<img alt="Overview1"  src="https://github.com/AmulPandey/Interview_AI/blob/main/app/src/main/assets/screenshot1.jpeg">
 </p>
 <p align="center">
-<img alt="Overview2"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot2.jpg">
+<img alt="Overview2"  src="https://github.com/AmulPandey/Interview_AI/blob/main/app/src/main/assets/screenshot2.jpeg">
 </p>
 <p align="center">
 <img alt="Overview3"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot3.jpg">
 </p>
 <p align="center">
-<img alt="Overview4"  src="https://github.com/AmulPandey/Library_Bee/blob/main/app/src/main/assets/LibraryScreenshot4.jpg">
+<img alt="Overview4"  src="https://github.com/AmulPandey/Interview_AI/blob/main/app/src/main/assets/screenshot3.jpeg">
 </p>
 
 ## **Preview**
